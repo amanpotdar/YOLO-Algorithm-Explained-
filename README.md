@@ -69,11 +69,11 @@ Accuracy
 Here are there accuracy improvements after applying the techniques discussed so far:
 
 
-Source
+
 Accuracy comparison for different detectors:
 
 
-Source
+
 YOLO’s Limitations:-
 YOLO algorithm can struggle with small objects that appear in groups. As the model learns to predict bounding boxes from data, it can struggle to generalize objects in new ratios or configurations.
 
